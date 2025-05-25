@@ -12,7 +12,7 @@
     "commit": "git-cz"
   },
   "dependencies": {
-    "@302ai/ai-sdk": "^0.0.4",
+    "@302ai/ai-sdk": "^0.0.15",
     "@ai-sdk/openai": "^1.0.11",
     "@ai-sdk/provider": "^1.0.3",
     "@hookform/error-message": "^2.0.1",
